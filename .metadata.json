@@ -1,5 +1,13 @@
 [
   {
+    "package": "labsimplex",
+    "oncran": true
+  },
+  {
+    "package": "masscor",
+    "oncran": true
+  },
+  {
     "package": "transmem",
     "oncran": true
   }
